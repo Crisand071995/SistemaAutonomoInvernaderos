@@ -39,7 +39,6 @@ observar cada uno de los resultados en base a la cantidad de waypoints obtenidos
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [ArduinoIDE](https://www.arduino.cc/en/software) - LIBRE-Código de Movimiento
 * [VisualStudioCode](https://code.visualstudio.com/) - LIBRE-Código Interfaz Gráfica
