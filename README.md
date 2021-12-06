@@ -52,11 +52,11 @@ observar cada uno de los resultados en base a la cantidad de waypoints obtenidos
 * **Cristian Andrés Padilla Calderón*** - *Documentación* 
 
 
-## Expresiones de Gratitud 🎁
+## AGRADECIMIENTO 🎁
 
 *Agradezco públicamente a la Universidad Técnica del Norte por permitirme la culminación del proyecto presentado y avanzar de manera exitosa en el mismo.
 
 
-
+## Anexos, videos e imágenes referenciales en el link de ONEDRIDE🛠️
 ---
 ⌨️ con ❤️ por [Crisand071995](https://github.com/Crisand071995) 😊
