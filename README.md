@@ -1,4 +1,4 @@
-# SistemaAutonomoInvernaderos-UniversidaTecnicaDelNorte
+# SistemaAutonomoInvernaderos-UniversidaTécnicaDelNorte
 
 # Planificación de rutas inteligentes en vehículos autónomos dentro de invernaderos
 
